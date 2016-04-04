@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[UnderGround Command]]></title>
         <description><![CDATA[UnderGround Command]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ugc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 18:49:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 19:00:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ugc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Charlie]]></title>
             <description><![CDATA[<article><h1>Charlie</h1><p>The Guardian of the Command. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4caf017-7c52-42cc-a5a7-b75e26602fb4.jpg"></article>]]></description>
-            <link>undefinedcharlie/index.html</link>
+            <link>https://thegrid.ai/ugc/charlie/index.html</link>
             <guid isPermaLink="false">554871ab-61a8-4ac5-a795-a004c75bc95c</guid>
-            <pubDate>Mon, 04 Apr 2016 18:49:12 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 19:00:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
