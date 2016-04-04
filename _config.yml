@@ -1,29 +1,41 @@
-name: UnderGround Command
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
 title: UnderGround Command
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7339703636243939
+  brandStrength: 1
+  lightness: 0.8866754835471511
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.07365136756561697
-  lightness: 0.8866754835471511
-  saturation: 0.7339703636243939
   rhythmicContrast: 0.5970600370783359
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: UnderGround Command
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.8808511
